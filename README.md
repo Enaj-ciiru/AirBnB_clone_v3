@@ -162,8 +162,8 @@ No known bugs at this time.
 
 ###### Version 1
 
-- Alexa Orrico - [Github](https://github.com/alexaorrico) 
-- Jennifer Huang - [Github](https://github.com/jhuang10123)
+- Jane Njoroge - [Github](https://github.com/Enaj-ciiru)
+- Floernce Wangui - [Github](https://github.com/Florence-wangui) 
 
 ## License
 Public Domain. No copywrite protection. 
